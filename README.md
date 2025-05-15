@@ -1,4 +1,4 @@
-# Android-OS
+# Android-x86 OS Installation
 This documentation outlines the installation process of Android-x86, an adaptation of the Android operating system designed to run on x86-based computers. It describes the necessary steps to set up the OS, including creating installation media, configuring system settings, and optimizing performance. Additionally, it covers the filesystems that Android-x86 supports and those that may present compatibility issues. Despite being originally developed for mobile devices, this version enables desktop users to experience Android in a structured computing environment. The document also explores virtualization, detailing its purpose, use cases, and how it allows Android-x86 to run on virtual platforms like VirtualBox or QEMU.
 
 # System call implementation
